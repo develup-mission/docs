@@ -4,6 +4,8 @@
 
 develup-mission의 repository에 저장되어 있는 미션을 자신의 계정으로 가져옵니다.
 
+<img width="1353" alt="스크린샷 2024-07-15 오후 4 00 12" src="https://github.com/user-attachments/assets/2c835367-78ee-4ac9-8f63-b54ac5b064f1">
+
 ### 2. fork한 저장소를 자신의 컴퓨터로 clone
 
 자신의 계정으로 가져온 미션을 로컬 컴퓨터에 저장합니다.
