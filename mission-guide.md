@@ -28,8 +28,8 @@ git commit -m '메세지' // 작업한 내용을 메시지에 기록
 로컬에서 commit 명령을 실행하면 로컬 저장소에만 반영되고, 원격 github.com의 저장소에는 반영되지 않습니다.
 github.com의 저장소에도 동일하게 반영하기 위해 push 명령어를 사용합니다.
 ```
-git push origin 브랜치이름
-ex) git push origin develup
+git push origin main
+ex) git push origin main
 ```
 
 ### 6. github 서비스에서 Pull Request 제출
